@@ -1,0 +1,8 @@
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\bin\Debug\netcoreapp3.1\WarehouseSystem.Core.deps.json
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\bin\Debug\netcoreapp3.1\WarehouseSystem.Core.dll
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\bin\Debug\netcoreapp3.1\WarehouseSystem.Core.pdb
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\obj\Debug\netcoreapp3.1\WarehouseSystem.Core.AssemblyInfoInputs.cache
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\obj\Debug\netcoreapp3.1\WarehouseSystem.Core.AssemblyInfo.cs
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\obj\Debug\netcoreapp3.1\WarehouseSystem.Core.csproj.CoreCompileInputs.cache
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\obj\Debug\netcoreapp3.1\WarehouseSystem.Core.dll
+F:\Code\Dotnet\StansAssignment\WarehouseSystem.Core\obj\Debug\netcoreapp3.1\WarehouseSystem.Core.pdb

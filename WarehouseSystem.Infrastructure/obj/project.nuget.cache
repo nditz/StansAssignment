@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Dmco+59cWQPV6l9WQqhh4LvdxROVa7Z0vlUWQXA2Xgx+jNVJfPXBu8SlgVmuwFvjPt8oTq+++ujJUENz9nxkA==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\Dotnet\\StansAssignment\\WarehouseSystem.Infrastructure\\WarehouseSystem.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wandi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
